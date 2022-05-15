@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SATENDER0095
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Website Design Topics.
+- 👋 Hi, I’m @SATENDER0095. I am a data analyst in TCS.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Data Analyst/Data Science Projects.
 - 📫 How to reach me ... satender0095@gmail.com
 
 <!---
